@@ -1,0 +1,44 @@
+body{
+    padding-top:100px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #F0F0F0;
+    padding: 10px;
+    text-align: center;
+    
+  
+}
+article{
+    position: relative;
+    Width: 60%;
+    height: 110;
+    
+    background-color: #e0e0ee;
+    padding: 15px;
+  
+}
+aside{
+   position: absolute;
+    Width: 35%;
+    height: 100;
+    background-color: #d0d0d0;
+    Padding: 15px;
+  top: 109px;
+    right: 0;
+}
+footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #C0C0C0;
+    padding: 10px;
+    text-align: center;
+    
+    
+}
